@@ -22,8 +22,8 @@ Egresado de Computación e Informática (Cibertec) enfocado en desarrollo **web 
 y en **automatización de pruebas**. Me gusta entender cómo funcionan las herramientas
 por dentro — por eso construyo cosas desde cero en lugar de solo consumir frameworks.
 
-Busco integrarme a un equipo donde pueda aportar tanto en el **desarrollo** como en
-la **calidad** del software.
+Actualmente trabajo como **Desarrollador de Software en LCT Global**, aportando
+tanto en el **desarrollo** como en la **calidad** del software.
 
 ---
 
@@ -79,10 +79,12 @@ una CLI propia, métricas honestas y un sitio de documentación con
 
 ### 💼 Experiencia
 
+- **Desarrollador de Software — LCT Global** _(actual)_: desarrollo de software
+  en una empresa de TI especializada en soluciones a medida (web, móvil y escritorio).
 - **Desarrollador Móvil & QA — KyloMotors:** app iOS en Swift para alquiler de
   vehículos; framework de pruebas automatizadas con Java + Selenium + Cucumber.
-- **Practicante Front-end — EBP Consulting:** maquetación responsiva del sitio
-  del Colegio Markham y proyectos corporativos.
+- **Practicante Front-end — EBP Consulting:** parte del equipo que maquetó y
+  desarrolló el sitio del Colegio Markham (diseño responsivo) y proyectos corporativos.
 
 ---
 
