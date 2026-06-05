@@ -7,11 +7,18 @@
 </p>
 
 <p align="center">
+  <a href="https://ficf0x.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ficf0x.github.io-8b7cff?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="mailto:rafitolinares12@hotmail.com">
     <img src="https://img.shields.io/badge/Email-rafitolinares12%40hotmail.com-ff6b57?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://img.shields.io/badge/Inglés-B2-56d98a?style=flat-square" alt="Inglés B2" />
   <img src="https://img.shields.io/badge/Lima-Perú-6ea8ff?style=flat-square&logo=googlemaps&logoColor=white" alt="Lima, Perú" />
+</p>
+
+<p align="center">
+  🌐 <b><a href="https://ficf0x.github.io">Mira mi portafolio completo →</a></b>
 </p>
 
 ---
