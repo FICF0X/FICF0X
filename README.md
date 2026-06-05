@@ -69,7 +69,7 @@ tanto en el **desarrollo** como en la **calidad** del software.
 
 ---
 
-### 🚀 Proyecto destacado
+### 🚀 Proyectos destacados
 
 #### ⏱ [Focus-Driven Testing](https://github.com/FICF0X/focus-driven-testing)
 
@@ -81,6 +81,14 @@ una CLI propia, métricas honestas y un sitio de documentación con
 🌐 **Demo en vivo:** https://ficf0x.github.io/focus-driven-testing/
 
 <sub>`JavaScript` · `Node.js (ESM)` · `Zero dependencies` · `i18n` · `GitHub Pages`</sub>
+
+#### 🧪 [SauceDemo E2E Automation](https://github.com/FICF0X/saucedemo-e2e-automation)
+
+Suite de **automatización de pruebas E2E** con **Selenium**, **Cucumber (BDD)** y el
+patrón **Page Object**. Escenarios en Gherkin (español), esperas explícitas, captura
+de pantalla al fallar y Maven Wrapper para correr con solo el JDK.
+
+<sub>`Java` · `Selenium 4` · `Cucumber` · `BDD` · `Page Object Model`</sub>
 
 ---
 
