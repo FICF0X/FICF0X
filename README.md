@@ -71,6 +71,19 @@ tanto en el **desarrollo** como en la **calidad** del software.
 
 ### 🚀 Proyectos destacados
 
+#### 🏪 [Sistema de Gestión Comercial](https://github.com/FICF0X/desafio-web)
+
+Sistema comercial **full-stack** que cubre el flujo completo de inventario:
+órdenes de compra, ingreso de mercadería, facturación (con IGV) y despacho.
+Con **control de stock en tiempo real**, operaciones atómicas vía **RPC de
+Postgres** y seguridad por capas (**RLS** + guards de sesión). Construido con
+metodología spec-driven y asistencia de IA.
+
+🌐 **Demo en vivo:** https://desafio-web-six.vercel.app
+🔑 **Acceso demo:** `admin@gmail.com` · `admin123`
+
+<sub>`Next.js 16` · `TypeScript` · `Supabase (Postgres + Auth + RLS)` · `Tailwind` · `Vercel`</sub>
+
 #### ⏱ [Focus-Driven Testing](https://github.com/FICF0X/focus-driven-testing)
 
 Un **test-runner sin dependencias** que construí desde cero para entender cómo
