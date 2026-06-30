@@ -1,5 +1,7 @@
 <!-- Profile README · github.com/FICF0X -->
-<h1 align="center">Hola, soy Rafael Linares 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=FF6B57&center=true&vCenter=true&width=640&lines=Hola%2C+soy+Rafael+Linares+%F0%9F%A6%8A;Desarrollador+Junior+%26+QA;iOS+%C2%B7+Front-end+%C2%B7+Testing;El+Zorro+que+construye+desde+cero" alt="Rafael Linares — El Zorro" />
+</p>
 
 <p align="center">
   <b>Desarrollador de Software Junior</b> · <b>Analista de QA</b><br/>
