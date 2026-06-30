@@ -1,6 +1,6 @@
 <!-- Profile README · github.com/FICF0X -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=FF6B57&center=true&vCenter=true&width=640&lines=Hola%2C+soy+Rafael+Linares+%F0%9F%A6%8A;Desarrollador+Junior+%26+QA;iOS+%C2%B7+Front-end+%C2%B7+Testing;iG:+Rafael.v" alt="Rafael Linares — El Zorro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=FF6B57&center=true&vCenter=true&width=640&lines=Hola%2C+soy+Rafael+Linares+%F0%9F%A6%8A;Desarrollador+Junior+%26+QA;iOS+%C2%B7+Front-end+%C2%B7+Testing" alt="Rafael Linares — El Zorro" />
 </p>
 
 <p align="center">
@@ -17,6 +17,10 @@
   </a>
   <img src="https://img.shields.io/badge/Inglés-B2-56d98a?style=flat-square" alt="Inglés B2" />
   <img src="https://img.shields.io/badge/Lima-Perú-6ea8ff?style=flat-square&logo=googlemaps&logoColor=white" alt="Lima, Perú" />
+  <a href="https://instagram.com/rafael.v" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%40rafael.v-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=FICF0X&style=flat-square&color=ff6b57&label=Visitas" alt="Visitas al perfil" />
 </p>
 
 <p align="center">
@@ -118,11 +122,28 @@ de pantalla al fallar y Maven Wrapper para correr con solo el JDK.
 
 ---
 
-### 📊 GitHub
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FICF0X&show_icons=true&hide_border=true&title_color=ff6b57&icon_color=ff6b57&text_color=a3a8b2&bg_color=0b0c0e" alt="GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FICF0X&layout=compact&hide_border=true&title_color=ff6b57&text_color=a3a8b2&bg_color=0b0c0e" alt="Top languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FICF0X&show_icons=true&hide_border=true&title_color=ff6b57&icon_color=ff6b57&text_color=a3a8b2&bg_color=0b0c0e" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FICF0X&layout=compact&hide_border=true&title_color=ff6b57&text_color=a3a8b2&bg_color=0b0c0e" alt="Top languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=FICF0X&hide_border=true&background=0b0c0e&stroke=ff6b57&ring=ff6b57&fire=ff6b57&currStreakLabel=ff6b57&sideNums=a3a8b2&currStreakNum=a3a8b2&dates=a3a8b2&sideLabels=a3a8b2" alt="GitHub streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FICF0X&bg_color=0b0c0e&color=ff6b57&line=ff6b57&point=ffffff&area=true&area_color=ff6b57&hide_border=true" alt="Activity graph" />
+</p>
+
+<!-- Snake animation (generada por .github/workflows/snake.yml) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FICF0X/FICF0X/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FICF0X/FICF0X/output/github-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/FICF0X/FICF0X/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
