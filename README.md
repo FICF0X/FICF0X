@@ -1,6 +1,6 @@
 <!-- Profile README · github.com/FICF0X -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2200&pause=500&color=FF6B57&center=true&vCenter=true&width=560&lines=Hola%2C+soy+Rafael+Linares+%F0%9F%A6%8A;%F0%9F%93%B7+Ig: rafael.v" alt="Rafael Linares — El Zorro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2200&pause=500&color=FF6B57&center=true&vCenter=true&width=560&lines=Hola%2C+soy+Rafael+Linares+%F0%9F%A6%8A;%Ig: rafael.v" alt="Rafael Linares — El Zorro" />
 </p>
 
 <p align="center">
