@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/FICF0X/FICF0X/main/assets/fox.gif" width="340" alt="Zorro corriendo" />
+</p>
+
+<p align="center">
   <a href="https://ficf0x.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-ficf0x.github.io-8b7cff?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio" />
   </a>
