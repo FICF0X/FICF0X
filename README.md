@@ -129,11 +129,6 @@ de pantalla al fallar y Maven Wrapper para correr con solo el JDK.
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FICF0X&show_icons=true&hide_border=true&title_color=ff6b57&icon_color=ff6b57&text_color=a3a8b2&bg_color=0b0c0e" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FICF0X&layout=compact&hide_border=true&title_color=ff6b57&text_color=a3a8b2&bg_color=0b0c0e" alt="Top languages" height="165" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=FICF0X&hide_border=true&background=0b0c0e&stroke=ff6b57&ring=ff6b57&fire=ff6b57&currStreakLabel=ff6b57&sideNums=a3a8b2&currStreakNum=a3a8b2&dates=a3a8b2&sideLabels=a3a8b2" alt="GitHub streak" height="165" />
 </p>
 
