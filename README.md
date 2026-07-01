@@ -36,8 +36,7 @@
 ### 🧩 Sobre mí
 
 Egresado de Computación e Informática (Cibertec) enfocado en desarrollo **web y móvil**
-y en **automatización de pruebas**. Me gusta entender cómo funcionan las herramientas
-por dentro — por eso construyo cosas desde cero en lugar de solo consumir frameworks.
+y en **automatización de pruebas**.
 
 Actualmente trabajo como **Desarrollador de Software en LCT Global**, aportando
 tanto en el **desarrollo** como en la **calidad** del software.
@@ -83,12 +82,6 @@ tanto en el **desarrollo** como en la **calidad** del software.
 
 #### 🏪 [Sistema de Gestión Comercial](https://github.com/FICF0X/desafio-web)
 
-Sistema comercial **full-stack** que cubre el flujo completo de inventario:
-órdenes de compra, ingreso de mercadería, facturación (con IGV) y despacho.
-Con **control de stock en tiempo real**, operaciones atómicas vía **RPC de
-Postgres** y seguridad por capas (**RLS** + guards de sesión). Construido con
-metodología spec-driven y asistencia de IA.
-
 🌐 **Demo en vivo:** https://desafio-web-six.vercel.app
 🔑 **Acceso demo:** `admin@gmail.com` · `admin123`
 
@@ -96,33 +89,13 @@ metodología spec-driven y asistencia de IA.
 
 #### ⏱ [Focus-Driven Testing](https://github.com/FICF0X/focus-driven-testing)
 
-Un **test-runner sin dependencias** que construí desde cero para entender cómo
-funcionan por dentro Jest y Vitest. Implementa `describe` / `it` / `expect`,
-una CLI propia, métricas honestas y un sitio de documentación con
-**internacionalización (ES/EN)** hecha a mano.
-
 🌐 **Demo en vivo:** https://ficf0x.github.io/focus-driven-testing/
 
 <sub>`JavaScript` · `Node.js (ESM)` · `Zero dependencies` · `i18n` · `GitHub Pages`</sub>
 
 #### 🧪 [SauceDemo E2E Automation](https://github.com/FICF0X/saucedemo-e2e-automation)
 
-Suite de **automatización de pruebas E2E** con **Selenium**, **Cucumber (BDD)** y el
-patrón **Page Object**. Escenarios en Gherkin (español), esperas explícitas, captura
-de pantalla al fallar y Maven Wrapper para correr con solo el JDK.
-
 <sub>`Java` · `Selenium 4` · `Cucumber` · `BDD` · `Page Object Model`</sub>
-
----
-
-### 💼 Experiencia
-
-- **Desarrollador de Software — LCT Global** _(actual)_: desarrollo de software
-  en una empresa de TI especializada en soluciones a medida (web, móvil y escritorio).
-- **Desarrollador Móvil & QA — KyloMotors:** app iOS en Swift para alquiler de
-  vehículos; framework de pruebas automatizadas con Java + Selenium + Cucumber.
-- **Practicante Front-end — EBP Consulting:** parte del equipo que maquetó y
-  desarrolló el sitio del Colegio Markham (diseño responsivo) y proyectos corporativos.
 
 ---
 
